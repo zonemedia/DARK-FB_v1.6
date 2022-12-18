@@ -75,4 +75,4 @@ Belajar Pemrograman Autodidak atau lainnya mari membaca artikel di website saya 
 <br/>
 <br/>
 
-<p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a></p>
+<p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">www.samuelpasaribu.com</a></p>
